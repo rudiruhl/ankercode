@@ -360,3 +360,18 @@ body {
 
 body {
   background: #053A59; }
+
+header {
+  height: 200px;
+  background: #DDD5D0; }
+
+.logo {
+  display: block;
+  max-width: 500px;
+  background-image: url(/assets/img/logo.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  height: 200px;
+  padding: 0;
+  margin: auto; }
