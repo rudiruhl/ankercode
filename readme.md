@@ -1,9 +1,5 @@
-# rudiruhl - workflow
+# ankercode - webseite
 
-This is my standard workflow for frontend-development. I am using following tools:
+This is the source code of my ankercode website.
 
-- gulp
-- gulp-sass
-- gulp-minify
-- gulp-clean-css
-- browser-sync
+still in progress...
